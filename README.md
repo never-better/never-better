@@ -6,7 +6,6 @@
 <p>
   <a href="https://malchafrappuccino.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-brightgreen?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:youtaktak@gmail.com" target="_blank"><img src="https://img.shields.io/badge/youtaktak@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/y0utak" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ### Skills
