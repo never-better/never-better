@@ -1,7 +1,3 @@
-## Hello! I'm YouTak
-👨‍💻 Student  
-📱 Studying Mobile App Programming
-
 ### Contact
 <p>
   <a href="https://malchafrappuccino.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-brightgreen?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
@@ -9,17 +5,15 @@
 </p>
 
 ### Skills
-#### Platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
-</p>
-<p>
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
-  
-  
 
 
+### Education
+- 전기전자공학부, 건국대학교 `졸업`
+- 네이버 커넥트재단 <부스트캠프 웹・모바일 7기> - Challenge & Membership (iOS/Swift) `수료`
 
-
-
+### Projects
+- burstcamp :부스트캠퍼들의 블로그 글을 모아보는 앱 - [[App Store](https://apps.apple.com/kr/app/burstcamp/id6444737479)] [[Github](https://github.com/boostcampwm-2022/iOS09-burstcamp)]
