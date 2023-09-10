@@ -11,7 +11,7 @@
 </p>
 
 
-### Education`
+### Education
 - 네이버 커넥트재단 <부스트캠프 웹・모바일 7기> - Challenge & Membership (iOS/Swift) `수료`
 
 ### Activities
