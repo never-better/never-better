@@ -18,4 +18,4 @@
 
 ### Projects
 - burstcamp : 부스트캠퍼들의 블로그 글을 모아보는 앱 - [[App Store](https://apps.apple.com/kr/app/burstcamp/id6444737479)] [[Github](https://github.com/boostcampwm-2022/iOS09-burstcamp)]
-- Baggle : 이벤트를 통해 약속을 재밌게 만들어주는 약속 관리 서비스 [[Github](https://github.com/dnd-side-project/dnd-9th-2-ios)]
+- Baggle : 이벤트를 통해 약속을 재밌게 만들어주는 약속 관리 서비스 - [[App Store](https://apps.apple.com/us/app/baggle/id6461166641)] [[Github](https://github.com/dnd-side-project/dnd-9th-2-ios)]
