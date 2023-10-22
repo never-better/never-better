@@ -22,5 +22,5 @@
 
 ### Projects
 - burstcamp : 부스트캠퍼들의 블로그 글을 모아보는 앱 - [[App Store](https://apps.apple.com/kr/app/burstcamp/id6444737479)] [[Github](https://github.com/boostcampwm-2022/iOS09-burstcamp)]
-- KUKUKU : AR 게임을 통해 알아보는 건국대학교 - [[App Store](https://apps.apple.com/kr/app/kukuku/id6446134221)]  [[Github](https://github.com/konkuk-tak/kukuku)]
+- OOOOOO : AR 게임을 통해 알아보는 OO대학교 - [[App Store](https://apps.apple.com/kr/app/kukuku/id6446134221)]  [[Github](https://github.com/konkuk-tak/kukuku)]
 - Baggle : 이벤트를 통해 약속을 재밌게 만들어주는 약속 관리 서비스 - [[App Store](https://apps.apple.com/us/app/baggle/id6461166641)] [[Github](https://github.com/dnd-side-project/dnd-9th-2-ios)]
